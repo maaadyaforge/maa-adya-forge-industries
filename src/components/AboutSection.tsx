@@ -62,14 +62,14 @@ export function AboutSection() {
                   1990 | Manufacturing:
                 </span>{' '}
                 Established our first refractory unit under{' '}
-                <span className="font-semibold">Jai Mahadev Fire Bricks</span>.
+                <span className="font-semibold">Jay Mata Dee Fire Bricks</span>.
               </div>
               <div className="p-3 bg-white rounded-xl border border-slate-200 shadow-sm">
                 <span className="font-bold text-terracotta-700">
                   2020–2025 | Diversification:
                 </span>{' '}
                 Expanded into metal forging via{' '}
-                <span className="font-semibold">Mahadev Forge</span>,
+                <span className="font-semibold">Maa Adya Forge</span>,
                 specializing in parts for Tata Motors.
               </div>
             </div>
